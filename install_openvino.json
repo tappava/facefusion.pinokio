@@ -35,7 +35,7 @@
   }, {
     "method": "shell.enter",
     "params": {
-      "message": "python install.py --onnxruntime openvino --torch cpu",
+      "message": "python install.py --onnxruntime openvino",
       "on": [{
         "event": null,
         "return": true
